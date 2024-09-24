@@ -119,7 +119,7 @@ class ResetScreen extends Component {
             source={errors.upperAndLower ? Icons.cross : Icons.check}
             style={styles.icon}
           />
-          <Text style={styles.errorText}>Upper and lowercase</Text>
+          <Text style={styles.errorText}>Upper and Lowercase</Text>
         </View>
       </View>
     );
